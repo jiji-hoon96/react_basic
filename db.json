@@ -1,3 +1,19 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "gdg",
+      "body": "zg",
+      "id": 1
+    },
+    {
+      "title": "gd",
+      "body": "gd",
+      "id": 2
+    },
+    {
+      "title": "게시글작성",
+      "body": "ㅎㅇㅎㅇ",
+      "id": 3
+    }
+  ]
 }
